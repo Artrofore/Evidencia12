@@ -1,0 +1,30 @@
+[
+  {
+    "isapre": "no",
+    "afp": "Modelo",
+    "nombre": "Dumble",
+    "apellido": "Door",
+    "rut": "217178762"
+  },
+  {
+    "isapre": "Si",
+    "afp": "Habitad",
+    "nombre": "Alonso",
+    "apellido": "Potter",
+    "rut": "28133481"
+  },
+  {
+    "isapre": "Si",
+    "afp": "Capital",
+    "nombre": "Her",
+    "apellido": "Malloni",
+    "rut": "213667852"
+  },
+  {
+    "isapre": "No",
+    "afp": "No",
+    "nombre": "Pepe",
+    "apellido": "Rapado",
+    "rut": "213421036"
+  }
+]
